@@ -11,8 +11,7 @@
     - div.articles
       - a
         - h4
-        - p (lorem20)
-
+        - p 
 #### API DOCS
 
 - [wiki docs](https://www.mediawiki.org/wiki/API:Main_page)
